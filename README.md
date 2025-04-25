@@ -1,6 +1,6 @@
 # Movie-Genre-classification-Model
 
-Task Objectives:
+**Task Objectives:**
 
 ■ The objective is to develop a model that classifies movies into genres.
 
@@ -12,4 +12,4 @@ Task Objectives:
 
 ■ Expected Outcome: A well-trained model capable of accurately classifying movies into genres based on textual descriptions, along with insights into feature importance and misclassifications.
 
-Steps to run the project:
+**Steps to run the project:**
